@@ -1,0 +1,27 @@
+.Footer {
+    margin-top: 40px;
+    background-color: black;
+    max-width: 100%;
+    overflow: hidden;
+    color: bisque;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.p1{
+    margin-top: 25px;
+}
+h3{
+    margin-top: 10px;
+}
+.p2{
+    margin-top: 25px;
+}
+.phone{
+    margin-top: 25px;
+}
+.Footer img{
+    aspect-ratio: 1/1;
+    width:25px;
+    height:25px;
+    margin: 10px;
+}
