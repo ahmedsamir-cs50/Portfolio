@@ -8,7 +8,7 @@ import './Footer.css'
 
 export const Footer = () => {
   return (
-    <div className='Footer mt-5' id='Contact'>  
+    <div className='Footer ' id='Contact'>  
       <Container >
         <Row>
         <Col sm={6}>
